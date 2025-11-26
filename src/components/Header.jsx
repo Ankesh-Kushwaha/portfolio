@@ -85,8 +85,7 @@ export default function Header() {
               )}
             </motion.a>
           ))}
-
-          {/* Theme Toggle */}
+        
           <button
             className="btn btn-sm btn-ghost"
             onClick={() => setTheme(theme === "light" ? "dark" : "light")}
