@@ -53,7 +53,7 @@ export default function PortfolioStats() {
   const [tab, setTab] = useState("github");
 
   return (
-    <section id="codingStats py-24 max-w-6xl mx-auto px-6">
+    <section id="codingStats" className="py-24 max-w-6xl mx-auto px-6">
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
