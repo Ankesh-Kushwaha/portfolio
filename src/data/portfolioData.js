@@ -12,7 +12,7 @@ export const personalInfo = {
   role: "Software Engineer",
   focus: "Backend Development • Distributed Systems • High-Performance Applications",
   badge: "FINAL-YEAR COMPUTER SCIENCE ENGINEERING STUDENT",
-  availabilityStatus: "Available for Software Engineer / Backend Roles (2026 Grad)",
+  availabilityStatus: "Available for Software Engineer / Backend Roles (2027 Grad)",
   tagline: "Building Scalable Systems. Solving Hard Problems.",
   summary:
     "Final-year Computer Science & Engineering student at G.L. Bajaj Institute of Technology & Management. I architect resilient distributed backends, low-latency APIs, real-time event-driven pipelines, and high-concurrency systems. Passionate about system design, horizontal worker scaling, caching architectures, and algorithmic problem solving with 1200+ DSA problems solved.",
